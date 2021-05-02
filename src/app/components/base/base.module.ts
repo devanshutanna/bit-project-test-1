@@ -5,14 +5,9 @@ import { BaseComponent } from './base.component';
 
 
 @NgModule({
-  declarations: [
-    BaseComponent,
-  ],
+  declarations: [BaseComponent],
   imports: [
-    CommonModule,
-  ],
-  exports: [
-    BaseComponent,
+    CommonModule
   ]
 })
 export class BaseModule { }

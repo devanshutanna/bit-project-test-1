@@ -34,32 +34,32 @@
         "origin": "AUTHORED",
         "exported": false
     },
-    "devanshutanna.angular-tutorial/base@0.0.1": {
+    "devanshutanna.angular-tutorial/base@0.0.2": {
         "files": [
             {
+                "name": "base-public-api.ts",
                 "relativePath": "src/app/components/base-public-api.ts",
-                "test": false,
-                "name": "base-public-api.ts"
+                "test": false
             },
             {
+                "name": "base.component.html",
                 "relativePath": "src/app/components/base/base.component.html",
-                "test": false,
-                "name": "base.component.html"
+                "test": false
             },
             {
+                "name": "base.component.scss",
                 "relativePath": "src/app/components/base/base.component.scss",
-                "test": false,
-                "name": "base.component.scss"
+                "test": false
             },
             {
+                "name": "base.component.ts",
                 "relativePath": "src/app/components/base/base.component.ts",
-                "test": false,
-                "name": "base.component.ts"
+                "test": false
             },
             {
+                "name": "base.module.ts",
                 "relativePath": "src/app/components/base/base.module.ts",
-                "test": false,
-                "name": "base.module.ts"
+                "test": false
             }
         ],
         "mainFile": "src/app/components/base-public-api.ts",

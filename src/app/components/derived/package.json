@@ -1,0 +1,8 @@
+{
+  "es2015": "dist\\fesm2015\\bit-derived.js",
+  "esm2015": "dist\\esm2015\\bit-derived.js",
+  "fesm2015": "dist\\fesm2015\\bit-derived.js",
+  "module": "dist\\fesm2015\\bit-derived.js",
+  "typings": "dist\\bit-derived.d.ts",
+  "metadata": "dist\\bit-derived.metadata.json"
+}
